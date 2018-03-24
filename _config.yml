@@ -1,10 +1,10 @@
-title: Streamdata Gallery Barcode
-url: barcode.streamdata.gallery
-tag: Barcode
+title: Streamdata Gallery Barcodes
+url: barcodes.streamdata.gallery
+tag: Barcodes
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery
-github_repo: barcode
+github_repo: barcodes
 github_branch: master
 collections:
   listings:
